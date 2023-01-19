@@ -1,6 +1,6 @@
-# Banco_de_Dados
+## Banco de Dados
 
-## CRUD - CREATE, READ, UPDATE, DELETE
+🚀  CRUD - CREATE, READ, UPDATE, DELETE
 
 - NOT NULL => Obriga que o atributo tenha algum dado,
 - UNSIGNED => É um valor sem sinal,
