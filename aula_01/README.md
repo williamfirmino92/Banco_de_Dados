@@ -16,7 +16,7 @@ Atributos => São as características das entidades que queremos guardar (dados 
 
 => São as ligações entre as diferentes entidades do sistema.
 
-- Material complementar \*
+# Material complementar:
 
 * Modelagem de dados: O que é?
   => https://www.totvs.com/blog/negocios/modelagem-de-dados/
