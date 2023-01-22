@@ -2,15 +2,15 @@
 
 # CRUD - UPDATE/ALTERAÇÃO
 * ADICIONANDO UMA NOVA COLUNA DA TABELA
-=> ALTER TABLE fornecedor
+ALTER TABLE fornecedor
 ADD telefone VARCHAR(45);
 
 * DELETANDO UMA COLUNA DA TABELA
-=> ALTER TABLE fornecedor
+ALTER TABLE fornecedor
 DROP telefone;
 
 * ALTERAR UM DADO
-=> UPDATE fornecedor
+UPDATE fornecedor
 SET id = 32
 WHERE nome LIKE 'Mister lanches';
 
